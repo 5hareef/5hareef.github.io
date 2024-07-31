@@ -5,7 +5,7 @@ categories: [redis,lists]
 tags: [redis]
 image:
   path: /assets/img/redis/redis_lists.png
-  alt: Redis Strings
+  alt: Redis Lists
 ---
 
 # Redis - Lists
