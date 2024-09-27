@@ -11,10 +11,10 @@ lang: en
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Dublin
 
-title: Shareef Ahmed
-tagline: Software Engineer
+title: Cloudsimplify
+tagline: A blog for software engineer
 description: >- 
-  Shareef Ahmed - Documentation and more...
+  Simplifying the Cloud for Engineers Everywhere!
 
 url: "https://5hareef.github.io"
 
