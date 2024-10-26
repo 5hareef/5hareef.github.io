@@ -30,7 +30,7 @@ social:
     - https://linkedin.com/in/syed-shareef-ahmed-144824121
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar/avatar.png
+avatar: /assets/img/avatar/cloudsimplify.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
