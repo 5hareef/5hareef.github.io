@@ -1,4 +1,5 @@
 <!-- The Footer -->
+<!-- Ref: {{ site.social.name }} -->
 
 <footer
   aria-label="Site Info"
@@ -12,9 +13,9 @@
     <time>{{ 'now' | date: '%Y' }}</time>
 
     {% if site.social.links %}
-      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+      <a href="{{ site.social.links[0] }}">cloudsimplify</a>.
     {% else %}
-      <em class="fst-normal">{{ site.social.name }}</em>.
+      <em class="fst-normal">cloudsimplify</em>.
     {% endif %}
 
     {% if site.data.locales[include.lang].copyright.brief %}
