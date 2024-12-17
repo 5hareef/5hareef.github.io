@@ -1,5 +1,5 @@
 ---
-title: "Redis - Client"
+title: "Redis - Cluster"
 date: Tue Dec 17 13:04:59 GMT 2024
 categories: [redis,cluster]
 tags: [redis]
